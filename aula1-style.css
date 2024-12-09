@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&family=Yuji+Mai&display=swap');
+
+body {
+    background-color: rgb(34, 34, 34);
+}
+
+h1{
+    font-size: 2rem;
+    color: rgb(176, 224, 0);
+    font-family: "Yuji Mai", serif;
+}
